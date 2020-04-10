@@ -1,0 +1,14 @@
+.vscode/
+node_modules/
+npm-error.log
+dist/
+.cache
+.services/*
+.idea/*
+
+src/**/*.js
+src/**/*.map
+coverage
+.DS_Store
+*/.DS_Store
+
